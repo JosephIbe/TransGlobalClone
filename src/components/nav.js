@@ -9,4 +9,5 @@ function Nav(){
     );
 }
 
+export default Nav;
 // const NavBar = styled.div
